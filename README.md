@@ -22,8 +22,8 @@ python3 check_website_status_gui.py
 ```
 
 ## Roadmap
--[ ]Switch from PySimpleGUI to a better GUI
--[ ]Make it into a website
+- [ ]Switch from PySimpleGUI to a better GUI
+- [ ]Make it into a website
 
 ## License
 This project is under The Unlicense and you can freely use it as you like
